@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## meu nome é fernanda sou estudante do paraná
 <!--
 **Fernandagasparim/Fernandagasparim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
